@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
     VideoView videoView0;
     FixedTextureVideoView videoView;
 
-    String url = "http://fx.v.kugou.com/G055/M01/01/08/F5QEAFbVm8GAF4uBAMHkKeRYLC8149.mp4";
+    String url = "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
